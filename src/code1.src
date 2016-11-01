@@ -1,2 +1,4 @@
 var x = 3;
-echo x;
+if (x > 7) {
+  echo x+1;
+}
