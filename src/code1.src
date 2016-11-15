@@ -1,5 +1,4 @@
-// Master-haarassa
-var z = 1;
+//Kissa-muuttuja eläintiedon taltiointiin
 var y = 'kissa';
 var x = 3;
 if (x > 7) {
